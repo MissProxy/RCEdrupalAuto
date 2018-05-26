@@ -1,0 +1,7 @@
+GoogleDork #1 ~ inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"
+ 
+GoogleDork #2 ~ inurl:"user/register?element_parents=account/mail"
+ 
+GoogleDork #3 ~ inurl:"*drupal_ajax"
+ 
+GoogleDork #4 ~ ;)
